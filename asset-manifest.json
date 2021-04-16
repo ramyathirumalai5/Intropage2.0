@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Intropage2.0/static/css/main.5850e046.chunk.css",
+    "main.js": "/Intropage2.0/static/js/main.383f62e7.chunk.js",
+    "main.js.map": "/Intropage2.0/static/js/main.383f62e7.chunk.js.map",
+    "runtime-main.js": "/Intropage2.0/static/js/runtime-main.789793d9.js",
+    "runtime-main.js.map": "/Intropage2.0/static/js/runtime-main.789793d9.js.map",
+    "static/js/2.504339d8.chunk.js": "/Intropage2.0/static/js/2.504339d8.chunk.js",
+    "static/js/2.504339d8.chunk.js.map": "/Intropage2.0/static/js/2.504339d8.chunk.js.map",
+    "static/js/3.005c3897.chunk.js": "/Intropage2.0/static/js/3.005c3897.chunk.js",
+    "static/js/3.005c3897.chunk.js.map": "/Intropage2.0/static/js/3.005c3897.chunk.js.map",
+    "index.html": "/Intropage2.0/index.html",
+    "static/css/main.5850e046.chunk.css.map": "/Intropage2.0/static/css/main.5850e046.chunk.css.map",
+    "static/js/2.504339d8.chunk.js.LICENSE.txt": "/Intropage2.0/static/js/2.504339d8.chunk.js.LICENSE.txt",
+    "static/media/Intro.module.css": "/Intropage2.0/static/media/fur3.6f90782e.jpg",
+    "static/media/Gallery.module.css": "/Intropage2.0/static/media/fur2.0b1c4b5d.jpg",
+    "static/media/logo2.67b3777e.png": "/Intropage2.0/static/media/logo2.67b3777e.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.789793d9.js",
+    "static/js/2.504339d8.chunk.js",
+    "static/css/main.5850e046.chunk.css",
+    "static/js/main.383f62e7.chunk.js"
+  ]
+}
